@@ -1,20 +1,25 @@
 ### Hi there 👋
 
-I'm a developer who enjoys building things with TypeScript, Node.js, and Python. I'm currently exploring developer tooling, automation workflows, and open source collaboration.
+I'm a full-stack developer based in Toronto. I work with TypeScript, Node.js, Python, and React — building tools, automating workflows, and contributing to open source projects I use every day.
 
-**What I'm working on:**
-- Experimenting with deployment setups and automation templates
-- Maintaining a curated collection of developer tools and integrations
-- Contributing to open source projects I use daily
+🔭 **Currently working on:** developer tooling and workflow automation
+🌱 **Learning:** Rust, distributed systems
+💬 **Ask me about:** TypeScript, API design, deployment pipelines
 
-**Some projects I've contributed to:**
-- [grok_zephyr](https://github.com/eruens/grok_zephyr) - ESLint fixes and cleanup
-- [open-live-studio](https://github.com/eruens/open-live-studio) - Security headers
-- [academia](https://github.com/eruens/academia) - UI fixes
-- [NovaLabs](https://github.com/eruens/NovaLabs) - CODEOWNERS configuration
-- [Token-TIkiDeco](https://github.com/eruens/Token-TIkiDeco) - Browser and accessibility tests
+### 📫 Find me elsewhere
 
-**Stack I work with:**
-TypeScript · Node.js · Python · Docker · React · Solana
+- **Website:** [eruens.dev](https://eruens.dev)
+- **Twitter/X:** [@eruens_dev](https://x.com/eruens_dev)
+- **LinkedIn:** [linkedin.com/in/eruens](https://linkedin.com/in/eruens)
+- **Dev.to:** [dev.to/eruens](https://dev.to/eruens)
+- **Stack Overflow:** [stackoverflow.com/users/eruens](https://stackoverflow.com/users/eruens)
 
-✉️ Reach out if you're working on something interesting!
+### 🛠️ Tech Stack
+
+`
+TypeScript  Node.js  Python  React  Docker  PostgreSQL  Redis  Solana
+`
+
+### 📊 GitHub Stats
+
+![Eruens's GitHub stats](https://github-readme-stats.vercel.app/api?username=eruens&show_icons=true&theme=dark)
